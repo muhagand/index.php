@@ -16,9 +16,11 @@
 
   <div class="container">
     <label><b>Username</b></label>
-      <input type="text" Placeholder="Masukan Username" name="email" required>
+      <input type="text" Placeholder="Masukan Username" name="username" required>
+      <label><b>Password</b><?label>
+      <input type="password" placeholder="Masukan Password" name="email" required>
+      
       <button type="sumbit">Masuk</Button>
-  
   <input type="checkbox" checked="checked"><span>Ingat Saya</spam></div>
   
   <div class="container" style="background-color:#f1f1f1">
